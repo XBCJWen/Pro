@@ -1,0 +1,13 @@
+# import  numpy as np
+# # print(np.eye(4))
+# a=np.array(np.eye(5))
+# print(a)
+# print("ndim",a.ndim)
+# print("shape",a.shape)
+# print("size",a.size)
+# print("dtype",a.dtype)
+# print("itemsize",a.itemsize)
+# print("flags",a.flags)
+# print("real",a.real)
+# print("imag",a.imag)
+# print("data",a.data)
